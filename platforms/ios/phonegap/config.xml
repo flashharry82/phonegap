@@ -17,7 +17,7 @@
     <allow-intent href="itms:*" />
     <allow-intent href="itms-apps:*" />
     <name>phonegap</name>
-    <description>Hello World sample application that responds to the deviceready event.</description>
+    <description>drag the robot.</description>
     <author email="support@phonegap.com" href="http://phonegap.com">PhoneGap Team</author>
     <content src="index.html" />
     <preference name="permissions" value="none" />
